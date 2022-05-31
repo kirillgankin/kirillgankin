@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kirillgankin
-- 👀 I’m interested in ... institutional investing and quantitative investments
+- 👀 I’m interested in ... quantitative investments & allocations
 - 🌱 I’m currently learning ... ml & dl
 - 💞️ I’m looking to collaborate on ... multi-asset/economic research
 - 📫 How to reach me ... kirill.gankin@gmail.com
