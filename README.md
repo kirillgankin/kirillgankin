@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kirillgankin
-- 👀 I’m interested in ... quantitative investments & allocations
+- 👀 I’m interested in ... quantitative investments & global asset allocations
 - 🌱 I’m currently learning ... ml & dl
-- 💞️ I’m looking to collaborate on ... multi-asset/economic research
+- 💞️ I’m looking to collaborate on ... bond factors/multi-asset research
 - 📫 How to reach me ... kirill.gankin@gmail.com
 
 <!---
