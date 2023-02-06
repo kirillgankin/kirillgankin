@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirillgankin
 - 👀 I’m interested in ... quantitative investments & global asset allocations
-- 🌱 I’m currently learning ... ml & dl
+- 🌱 I’m currently learning ... tools for data science roles
 - 💞️ I’m looking to collaborate on ... bond factors research
 - 📫 How to reach me ... kirill.gankin@gmail.com
 
